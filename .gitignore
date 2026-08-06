@@ -1,6 +1,8 @@
 .vscode/*
 !.vscode/extensions.json
 node_modules/
+.env
+.idea/
 backend/app/frontend/
 /test-results/
 /playwright-report/
